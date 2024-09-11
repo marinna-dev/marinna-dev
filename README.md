@@ -37,8 +37,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marinna-dev/marinna-dev/output/snake.svg" alt="Snake animation" />
 
 ###
